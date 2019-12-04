@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
+    "dev": "nodemon -L",
     "commit": "node ./node_modules/cz-customizable/standalone.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +24,7 @@
     "@types/express": "^4.17.2",
     "cz-customizable": "^6.2.0",
     "express": "^4.17.1",
+    "nodemon": "^2.0.1",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.2"
   }
