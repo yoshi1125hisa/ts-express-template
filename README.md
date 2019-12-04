@@ -1,4 +1,4 @@
-# node-ts-express
+# ts-express-template
 [WIP] application template uses node.js(ts), Express.
 
 ---
