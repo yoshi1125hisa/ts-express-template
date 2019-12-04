@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
+    "dev": "node dist/index.js",
+    "tsc": "tsc",
     "commit": "node ./node_modules/cz-customizable/standalone.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
