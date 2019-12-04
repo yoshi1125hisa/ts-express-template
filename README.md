@@ -9,7 +9,20 @@
 
 ```
 $ npm i
-$ npm start
+```
+
+#### Production
+
+```
+$ npm run start
+```
+
+#### Development
+
+using `nodemon`.
+
+```
+$ npm run dev
 ```
 
 ### docker-compose
