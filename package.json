@@ -1,5 +1,5 @@
 {
-  "name": "ts-express",
+  "name": "ts-express-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoshi1125hisa/node-ts-express.git"
+    "url": "git+https://github.com/yoshi1125hisa/ts-express-template.git"
   },
   "author": "yoshi1125hisa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yoshi1125hisa/node-ts-express/issues"
+    "url": "https://github.com/yoshi1125hisa/ts-express-template/issues"
   },
-  "homepage": "https://github.com/yoshi1125hisa/node-ts-express#readme",
+  "homepage": "https://github.com/yoshi1125hisa/ts-express-template#readme",
   "keywords": [],
   "description": "",
   "devDependencies": {
